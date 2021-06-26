@@ -5,6 +5,7 @@ namespace TESTE_GIT {
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia !");
+            Console.WriteLine("Tudo bem ?");
             Console.ReadKey();
         }
     }
