@@ -11,6 +11,7 @@ namespace TESTE_GIT {
             Console.WriteLine();
             Console.WriteLine();
             Console.ReadKey();
+            Console.WriteLine("GAY");
         }
     }
 }
