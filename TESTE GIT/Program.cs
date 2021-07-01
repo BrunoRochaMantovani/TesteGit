@@ -6,7 +6,7 @@ namespace TESTE_GIT {
          
             Console.WriteLine("Bom dia !");
             Console.WriteLine("Tudo bem ?");
-            Console.WriteLine("GAY");
+            Console.WriteLine("MAIS UM");
            
         }
     }
